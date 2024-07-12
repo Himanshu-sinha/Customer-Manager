@@ -1,0 +1,5 @@
+INSERT INTO customer (customerid,firstname, lastname, date_of_birth, street_address, city, state, zip, email, phone) VALUES
+                                                                                                                         (1001,'John', 'Doe', '1980-01-01', '123 Main St', 'Springfield', 'IL', '62701', 'john.doe@example.com', '555-1234'),
+                                                                                                                         (2001,'Jane', 'Smith', '1990-05-15', '456 Oak St', 'Springfield', 'IL', '62701', 'jane.smith@example.com', '555-5678'),
+                                                                                                                         (1003,'Alice', 'Johnson', '1985-03-30', '789 Pine St', 'Springfield', 'IL', '62701', 'alice.johnson@example.com', '555-8765'),
+                                                                                                                         (1004,'Bob', 'Williams', '1975-07-20', '321 Elm St', 'Springfield', 'IL', '62701', 'bob.williams@example.com', '555-4321');
